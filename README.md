@@ -1,6 +1,6 @@
 # Jonas Messias
 
-Software Development
+ Front-End Developer | React.js, Next.js, TypeScript | UI/UX, Web Testing and Performance
 
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react&logoColor=61dafb)](https://react.dev/)
