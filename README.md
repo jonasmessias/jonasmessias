@@ -15,3 +15,4 @@ Developer focused on React, Next.js, with experience in web3 applications and sy
 
 [![LinkedIn](https://img.shields.io/badge/Jonas%20Messias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasmessias/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasmessias/)](https://www.linkedin.com/in/jonasmessias/)
