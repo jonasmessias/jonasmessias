@@ -1,24 +1,24 @@
 <h2 align="center">Olá! 👋 Me chamo Jonas Messias</h2>
 
-<p align="center"><b>Engenheiro de Software | Especialista Front-end</b></p>
+<p align="center"><b>Engenheiro de Software | Full Stack Developer</b></p>
 
 ---
 
 ### 💼 Sobre mim
 
-Sou Engenheiro de Software com bacharelado em Ciência da Computação e atuo há mais de 3 anos projetando e desenvolvendo aplicações web escaláveis. Embora minha especialidade técnica e maior fluência estejam no ecossistema **Front-end (React, Next.js, Angular e TypeScript)**, minha visão de desenvolvimento é sistêmica e orientada à engenharia.
+Desenvolvedor Full Stack e bacharel em Ciência da Computação, com sólida base em engenharia de software e arquitetura de sistemas. Atualmente, atuo como Desenvolvedor Autônomo construindo soluções end-to-end para clientes nacionais e internacionais.
 
-Meu foco principal está na arquitetura de aplicações de alta performance, atuando com padrões avançados como **Microfrontends, Monólitos Modulares e Clean Architecture**. Tenho experiência no ciclo completo de desenvolvimento (end-to-end), desde o refinamento de requisitos e modelagem de estado até a integração com APIs RESTful e otimização de performance, sempre guiado por testes (TDD/BDD) e boas práticas de design de software.
+Sou especialista no ecossistema **JavaScript/TypeScript (React, Next.js, Angular e Node.js)**, com foco principal no Front-end. Atuo na construção de interfaces de alta performance, arquiteturas escaláveis (Microfrontends e Monólitos Modulares) e na integração e desenvolvimento de APIs com **Java (Spring Boot) e PHP**. Aplico boas práticas de design de software em todo o ciclo de vida da aplicação.
 
 ---
 
 ### 🚀 Stack e Tecnologias
 
-- 💻 **Front-end & UI**: React, Next.js, Angular, TypeScript, Tailwind CSS, Framer Motion
-- 🏗️ **Arquitetura & Estado**: Microfrontends (Module Federation), Zustand, Redux, Context API, RxJS, NgRx
-- ⚙️ **Back-end & Integrações**: Node.js, Java (Spring Boot), PHP, RESTful APIs, Web Services
-- 🧪 **Qualidade & Testes**: Jest, React Testing Library, TDD, Clean Architecture
-- 🗄️ **Banco de Dados & Ferramentas**: PostgreSQL, MySQL, Git, Docker, CI/CD
+- ⚙️ **Backend**: Node.js, Java (Spring Boot), PHP
+- 💻 **Frontend**: React, Next.js, Angular, TypeScript, Tailwind CSS, Framer Motion
+- ☁️ **Cloud & DevOps**: Docker, Git, CI/CD (GitHub Actions)
+- 🧪 **Arquitetura & Qualidade**: Microfrontends, Clean Architecture, Jest, React Testing Library
+- 🗄️ **Bancos de Dados**: PostgreSQL, MySQL
 
 ---
 
@@ -30,16 +30,16 @@ Meu foco principal está na arquitetura de aplicações de alta performance, atu
 
 ### 🌟 Destaques de Projetos
 
-- **[Microfrontends Architecture Showcase](https://github.com/jonasmessias/react-microfrontend)**: Demonstração prática de arquitetura de Microfrontends aplicada a um e-commerce. Construído com Webpack 5 Module Federation, React, TypeScript e Zustand, rodando em um Monorepo (Turborepo) com deploys independentes.
-- **[PlanningApp (TCC)](#)**: Sistema desenvolvido para otimizar processos de planejamento escolar, implementado e validado em ambiente real na rede estadual de ensino de Minas Gerais.
-- **[Spring Task Manager API](https://github.com/jonasmessias/spring-task-manager-api)**: API RESTful robusta desenvolvida em Java com Spring Boot, evidenciando fundamentos sólidos de back-end e modelagem de dados.
-- **[Aprocama Portal](https://aprocama.vercel.app)**: Plataforma institucional de alta performance construída com Next.js (App Router), integração com CMS em Markdown, Zod e Tailwind CSS.
+- **[Microfrontends Architecture Showcase](https://github.com/jonasmessias/react-microfrontend)**: Arquitetura de Microfrontends aplicada a e-commerce com Webpack 5 Module Federation, React, TypeScript e Zustand em Monorepo.
+- **[Spring Task Manager API](https://github.com/jonasmessias/spring-task-manager-api)**: API RESTful de gerenciamento de tarefas desenvolvida em Java com Spring Boot.
+- **[Aprocama Portal](https://aprocama.vercel.app)**: Portal institucional de alta performance construído com Next.js (App Router), CMS em Markdown, Zod e Tailwind CSS.
+- **[PlanningApp](#)**: Sistema de otimização de processos de planejamento escolar, validado em ambiente real.
 
 ---
 
 ### 📫 Contato
 
-- **LinkedIn**: [linkedin.com/in/jonasmessias](https://www.linkedin.com/in/jonasmessias/)
+- [LinkedIn](https://www.linkedin.com/in/jonasmessias/)
 - **E-mail**: jonasmessias30@gmail.com
 - **Portfólio**: [jonasdev.vercel.app/pt](https://jonasdev.vercel.app/pt)
 
@@ -55,4 +55,4 @@ Meu foco principal está na arquitetura de aplicações de alta performance, atu
 
 ---
 
-<p align="center">💡 "Construindo interfaces escaláveis e de alta performance através de princípios sólidos de engenharia de software."</p>
+<p align="center">💡 "Construindo soluções resilientes e escaláveis através de engenharia de software aplicada."</p>
