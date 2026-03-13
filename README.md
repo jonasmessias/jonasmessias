@@ -8,13 +8,13 @@
 
 Desenvolvedor Full Stack e bacharel em Ciência da Computação, com sólida base em engenharia de software e arquitetura de sistemas. Atualmente, atuo como Desenvolvedor Autônomo construindo soluções end-to-end para clientes nacionais e internacionais.
 
-Sou especialista no ecossistema **JavaScript/TypeScript (React, Next.js, Angular e Node.js)**, com foco principal no Front-end. Atuo na construção de interfaces de alta performance, arquiteturas escaláveis (Microfrontends e Monólitos Modulares) e na integração e desenvolvimento de APIs com **Java (Spring Boot) e PHP (Laravel)**. Aplico boas práticas de design de software em todo o ciclo de vida da aplicação.
+Sou especialista no ecossistema Front-end com **React, Next.js e Angular**, focado na construção de interfaces de alta performance e arquiteturas escaláveis (Microfrontends e Monólitos Modulares). No Back-end, minhas tecnologias de eleição para desenvolvimento de APIs são **Node.js (Fastify)** — compondo minha stack principal ao lado do React — e **Java (Spring Boot)** — formando uma estrutura robusta em conjunto com o Angular. Além da minha stack principal, possuo conhecimentos complementares em ferramentas como PHP (Laravel) e Express, aplicando boas práticas de design de software em todo o ciclo de vida da aplicação.
 
 ---
 
 ### 🚀 Stack e Tecnologias
 
-- ⚙️ **Backend**: Node.js (NestJS, Express, Fastify), Java (Spring Boot), PHP (Laravel)
+- ⚙️ **Backend**: Node.js (Fastify, Express, NestJS), Java (Spring Boot), PHP (Laravel)
 - 💻 **Frontend**: React, Next.js, Angular, Vite, TypeScript, Tailwind CSS, Framer Motion
 - ☁️ **Cloud, DevOps & Mensageria**: AWS, Docker, RabbitMQ, Kafka, Redis, Git, CI/CD (GitHub Actions)
 - 🧪 **Arquitetura & Qualidade**: Microfrontends, Clean Architecture, Jest, React Testing Library
@@ -24,7 +24,7 @@ Sou especialista no ecossistema **JavaScript/TypeScript (React, Next.js, Angular
 
 ### 🛠️ Tecnologias que utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vite,tailwind,nodejs,nestjs,express,java,spring,php,laravel,docker,aws,rabbitmq,kafka,redis,postgres,mysql,mongodb,jest,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vite,tailwind,nodejs,fastify,nestjs,express,java,spring,php,laravel,docker,aws,rabbitmq,kafka,redis,postgres,mysql,mongodb,jest,git,github)](https://skillicons.dev)
 
 ---
 
