@@ -24,7 +24,7 @@ Sou especialista no ecossistema Front-end com **React, Next.js e Angular**, foca
 
 ### 🛠️ Tecnologias que utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vite,tailwind,nodejs,fastify,nestjs,express,java,spring,php,laravel,docker,aws,rabbitmq,kafka,redis,postgres,mysql,mongodb,jest,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vite,tailwind,nodejs,nestjs,express,fastify,java,spring,php,laravel,docker,aws,rabbitmq,kafka,redis,postgres,mysql,mongodb,jest,git,github)](https://skillicons.dev)
 
 ---
 
@@ -42,7 +42,7 @@ Sou especialista no ecossistema Front-end com **React, Next.js e Angular**, foca
 
 - [LinkedIn](https://www.linkedin.com/in/jonasmessias/)
 - **E-mail**: jonasmessias30@gmail.com
-- **Portfólio**: [jonasdev.vercel.app/pt](https://jonasdev.vercel.app/pt)
+- **Portfólio**: [jonasmessias.dev.br](https://www.jonasmessias.dev.br/pt)
 
 ---
 
