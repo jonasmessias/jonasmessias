@@ -24,7 +24,7 @@ Sou especialista no ecossistema **Front-end (React, Next.js e Angular)**, focado
 
 ### 🛠️ Tecnologias que utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,php,react,nextjs,angular,vite,tailwind,nodejs,express,fastify,nestjs,spring,laravel,postgres,mysql,mongodb,redis,docker,aws,rabbitmq,kafka,jest,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,php,react,nextjs,angular,vite,tailwind,nodejs,express,nestjs,spring,laravel,postgres,mysql,mongodb,redis,docker,aws,rabbitmq,kafka,jest,git,github)](https://skillicons.dev)
 
 ---
 
