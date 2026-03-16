@@ -33,9 +33,7 @@ Sou especialista no ecossistema **Front-end (React, Next.js e Angular)**, focado
 - **[Microfrontends Architecture Showcase](https://github.com/jonasmessias/react-microfrontend)**: Arquitetura de Microfrontends aplicada a e-commerce com Webpack 5 Module Federation, React, TypeScript e Zustand em Monorepo.
 - **[Spring Task Manager API](https://github.com/jonasmessias/spring-task-manager-api)**: API RESTful de gerenciamento de tarefas desenvolvida em Java com Spring Boot.
 - **[Angular Task Manager](https://github.com/jonasmessias/angular-task-manager)**: Interface front-end desenvolvida com Angular e TypeScript para consumo e integração com a API de gerenciamento de tarefas.
-- **[Aprocama Portal](https://aprocama.vercel.app)**: Portal institucional de alta performance construído com Next.js (App Router), CMS em Markdown, Zod e Tailwind CSS.
-- **[PlanningApp](#)**: Sistema de otimização de processos de planejamento escolar, validado em ambiente real.
-
+- **[Aprocama Blog](https://aprocama.vercel.app)**: Blog institucional de alta performance construído com Next.js (App Router), CMS em Markdown, Zod e Tailwind CSS.
 ---
 
 ### 📫 Contato
