@@ -8,7 +8,7 @@ Sou desenvolvedor de software com experiência em projetos web. Gosto de entende
 
 Continuo estudando e explorando novas tecnologias por meio de projetos práticos. Busco colaborar com equipes e participar de desafios que me ajudem a evoluir como profissional.
 
-Sei usar IA a favor da produtividade. Uso agentes de programação, como o Claude Code, para apoiar a análise, a implementação e a revisão de código, sempre revisando o resultado.
+Uso IA a favor da produtividade. Uso agentes de programação, como o Claude Code, para apoiar a análise, a implementação e a revisão de código, sempre revisando o resultado.
 
 ### Tecnologias
 
